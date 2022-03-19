@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "user_ioctl.h": "c",
-        "user_basic.h": "c",
-        "user_poll.h": "c"
-    }
-}
